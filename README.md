@@ -18,5 +18,6 @@ This C++ project focuses on building and transforming finite automaton from regu
 - Modeling regular expressions as finite automata
 - Accurate NFA → DFA conversion
 - Implementing and handling lambda-transitions
+- Polish form
 
 📌 Solo project

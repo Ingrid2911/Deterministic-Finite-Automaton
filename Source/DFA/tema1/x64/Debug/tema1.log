@@ -1,0 +1,8 @@
+﻿  DFA.cpp
+  NFA.cpp
+  Source.cpp
+  Generating Code...
+D:\facultate\anul_2\sem1\LFC\tema1_LFC\tema1_LFC\tema1\tema1\NFA.cpp(318,1): warning C4715: 'NFA::OperatorPriority': not all control paths return a value
+  tema1.vcxproj -> D:\facultate\anul_2\sem1\LFC\tema1_LFC\tema1_LFC\tema1\x64\Debug\tema1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
